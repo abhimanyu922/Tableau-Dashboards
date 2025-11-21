@@ -1,0 +1,58 @@
+
+Tableau Concepts Overview
+
+1. What is Tableau?
+Tableau is a data visualization and business intelligence tool used to analyze data, build dashboards, and generate insights.
+
+2. Key Tableau Components
+- Tableau Desktop
+- Tableau Public
+- Tableau Server
+- Tableau Online
+- Tableau Prep
+
+3. Data Connections
+Tableau connects with Excel, CSV, SQL databases, cloud warehouses, and APIs.
+
+4. Live vs Extract
+- Live: Real-time connection.
+- Extract: Fast, compressed snapshot (.hyper).
+
+5. Dimensions and Measures
+- Dimensions: Categories.
+- Measures: Numeric values.
+
+6. Worksheets, Dashboards, Stories
+- Worksheet = Single view
+- Dashboard = Multiple views together
+- Story = Sequence of dashboards to explain insights
+
+7. Charts in Tableau
+Bar, Line, Pie, Maps, Scatter, Tree Map, Area, Gantt, Histogram.
+
+8. Filters in Tableau
+Extract, Data Source, Context, Dimension, Measure, Quick Filters.
+
+9. Joins and Blending
+- Join: Combine tables from same source.
+- Blend: Combine tables from different sources.
+
+10. Calculated Fields
+Custom formulas: IF, ELSE, SUM, AVG, Table Calculations (RUNNING_SUM, INDEX, WINDOW_AVG).
+
+11. Parameters
+Dynamic user inputs used to control filters or switch measures.
+
+12. LOD Expressions
+- FIXED: Independent of view.
+- INCLUDE: Add more detail.
+- EXCLUDE: Remove detail.
+
+13. Dashboard Actions
+Filter Action, Highlight Action, URL Action.
+
+14. Publishing & Sharing
+Publish to Tableau Server, Online, Public or export as PDF/Image.
+
+15. Best Practices
+Use clean visuals, avoid clutter, keep colors consistent, optimize performance.
